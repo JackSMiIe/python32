@@ -3,3 +3,5 @@ class Calculator:
         return a + b
     def get_diff(self, a, b):
         return a - b
+    def get_mult(self, a, b):
+        return a * b
